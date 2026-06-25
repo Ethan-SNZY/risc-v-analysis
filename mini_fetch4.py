@@ -9,13 +9,13 @@ results = []
 thirty_days_ago = datetime.now(timezone.utc) - timedelta(days=30)
 
 for repo in repos:
-    # Call 1: get star count
+    # Star count
     url = "https://api.github.com/repos/" + repo
     response = requests.get(url)
     data = response.json()
     stars = data["stargazers_count"]
 
-    # Call 2: get recent commits, then count how many are within 30 days
+    # Fetch commits within 30 days
     commits_url = "https://api.github.com/repos/" + repo + "/commits"
     commits_response = requests.get(commits_url)
     commits_data = commits_response.json()
