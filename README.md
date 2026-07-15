@@ -15,6 +15,8 @@ corresponding visualizations are produced, which allow us to identify when inter
 
 [Search Interest Chart](data/trends_chart.png)
 
+<img width="1938" height="902" alt="Image" src="https://github.com/user-attachments/assets/6988147d-4ca1-4ffb-9160-87a894866085" />
+
 **RISC-V showing slow but upwards momentum
 Search interest for RISC-V grew from ~7 (Jun 2025) to a peak of ~40 (Jun 2026). This is roughly a 471.43% increase in over 1 year. While causation and correlation are entirely different, this aligns with a growing adoption and preference towards customizability.
 
