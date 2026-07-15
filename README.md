@@ -8,13 +8,13 @@ vs GitHub stars and commit frequency (Developer activity). These two sources are
 
 <img width="1938" height="902" alt="Image" src="https://github.com/user-attachments/assets/6988147d-4ca1-4ffb-9160-87a894866085" />
 
-##RISC-V showing slow but upwards momentum
+RISC-V showing slow but upwards momentum:
 Search interest for RISC-V grew from ~7 (Jun 2025) to a peak of ~40 (Jun 2026). This is roughly a 471.43% increase in over 1 year. While causation and correlation are entirely different, this aligns with a growing adoption and preference towards customizability.
 
-####ARM search interest staying relatively flat
+ARM search interest staying relatively flat:
 Relative interest in ARM architecture as a search term stayed in the ~4–22 range throughout the period. This suggests that while ARM remains dominant in deployment, it is not generating new search-driven curiosity at the rate RISC-V is.
 
-###x86 Spiked sharply in May-June 2026, as result of ACE
+x86 Spiked sharply in May-June 2026, as result of ACE:
 Search interest for x86 surged from ~55 to a peak of 100 (the maximum relative score) in late May 2026, before dropping sharply. This spike correlates directly with Intel and AMD's joint announcement of ACE (AI Compute Extensions). ACE is an initiative to unify AI workloads on x86 CPUs. This kind of event-driven spike is distinct from an organic, sustained growth, but also represents opportunity and probable innovation in the x86 ecosystem.
 
 ## Notes:
