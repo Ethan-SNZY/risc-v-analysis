@@ -21,7 +21,7 @@ Search interest for x86 surged from ~55 to a peak of 100 (the maximum relative s
 Google Trends uses a relative index from 0–100.100 represents the peak search interest, while all other values are proportionately assigned values relative to that within the tracked period.
 
 ## Why I built it:
-While diving into the Semiconductor IP industry, I was fascinated by RISC-V's open source ISA, and its potential to innovate the AI stack. To get a better picture of that possible future, I created this project to compare RISC-V traction against established architectures: ARM & x86, while also building upon my data extraction and analysis skills.
+While diving into the Semiconductor IP industry, I was fascinated by RISC-V's open source ISA, and its potential to innovate the AI stack. To get a better picture of that possible future, I created this project to compare RISC-V traction against established architectures: ARM & x86, while also building upon my data extraction, structuring, and analysis skills.
 
 ## Tools & skills used:
 - Python (requests, pytrends, pandas, csv, datetime)
