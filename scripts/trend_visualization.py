@@ -20,7 +20,7 @@ ax.fill_between(df["date"], df["RISC-V"], color="#2563EB", alpha=0.07)
 ax.plot(df["date"], df["ARM architecture"],
         label="ARM Architecture", color="#DC2626", linewidth=2)
 ax.plot(df["date"], df["x86"],
-        label="x86", color="#16A34A", linewidth=2, linestyle="--")
+        label="x86", color="#16A34A", linewidth=2)
 
 #12 month average lines
 riscv_avg = df["RISC-V"].mean()
