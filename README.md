@@ -6,7 +6,7 @@ vs GitHub stars and commit frequency (Developer activity). These two sources are
 
 [Search Interest Chart](data/trends_chart.png)
 
-<img width="2087" height="1051" alt="Image" src="https://github.com/user-attachments/assets/aa42ee95-a541-499a-92ee-482d7f82be6a" />
+<img width="2087" height="1051" alt="Image" src="https://github.com/user-attachments/assets/cd4f9efe-110b-4ccb-b513-e97da0689747" />
 
 RISC-V showing slow but upwards momentum:
 Search interest for RISC-V grew from ~7 (Jun 2025) to a peak of ~40 (Jun 2026). This is roughly a 471.43% increase in over 1 year. While causation and correlation are entirely different, this aligns with a growing adoption and preference towards customizability.
