@@ -15,7 +15,7 @@ ARM search interest staying relatively flat:
 Relative interest in ARM architecture as a search term stayed in the ~4–22 range throughout the period. This suggests that while ARM remains dominant in deployment, it is not generating new search-driven curiosity at the rate RISC-V is.
 
 x86 Spiked sharply in May-June 2026, as result of ACE:
-Search interest for x86 surged from ~55 to a peak of 100 (the maximum relative score) in late May 2026, before dropping sharply. This spike correlates directly with Intel and AMD's joint announcement of ACE (AI Compute Extensions). ACE is an initiative to unify AI workloads on x86 CPUs. This kind of event-driven spike is distinct from an organic, sustained growth, but also represents opportunity and probable innovation in the x86 ecosystem.
+Search interest for x86 surged from ~55 to a peak of 100 (the maximum relative score) in late May 2026, before dropping sharply. This spike correlates directly with Intel and AMD's joint announcement of ACE, May of this year (AI Compute Extensions). ACE is an initiative to unify AI workloads on x86 CPUs. This kind of event-driven spike is distinct from an organic, sustained growth, but also represents opportunity and probable innovation in the x86 ecosystem.
 
 ## Notes:
 Google Trends uses a relative index from 0–100.100 represents the peak search interest, while all other values are proportionately assigned values relative to that within the tracked period.
