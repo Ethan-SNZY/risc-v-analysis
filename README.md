@@ -2,7 +2,7 @@
 A Python data pipepline I built that tracks trend momentum in open sourced RISC-V hardware against ARM and x86. This tracking cross references two sources, Google Trends Search interest (Public interest)
 vs GitHub stars and commit frequency (Developer activity). These two sources are used to distinguish between actual growth of the hardware against cyclical news or upticks. Using this raw trend and API data, corresponding visualizations are produced, which allow us to identify when interest spikes, and therefore uncover a story.
 
-## Early Findings --> Only Google Trends Data @ the moment
+## Early Findings --> Only Google Trends Data 
 
 [Search Interest Chart](data/trends_chart.png)
 
