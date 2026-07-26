@@ -22,6 +22,8 @@ Google Trends uses a relative index from 0–100.100 represents the peak search 
 
 ## RISC-V Tracking - Spec * Implementation in last 30 days (riscv-isa-manual & lowRISC/ibex)
 
+<img width="1100" height="535" alt="Image" src="https://github.com/user-attachments/assets/34077044-dbf1-4937-b419-0849f509681c" />
+
 ## Why I built it:
 While diving into the Semiconductor IP industry, I was fascinated by RISC-V's open source ISA, and its potential to innovate the AI stack. To get a better picture of that possible future, I created this project to compare RISC-V traction against established architectures: ARM & x86, while also building upon my data extraction, structuring, and analysis skills.
 
