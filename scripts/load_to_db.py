@@ -29,3 +29,10 @@ CREATE TABLE IF NOT EXISTS trends_metrics (
 
 conn.commit()
 print('Tables created successfully')
+
+#load data from csv files into git_hub metrics
+github_df = pd.read_csv('data/stars_and_commits.csv')
+github_df["date"]= str(date.today())
+
+github_df.to_sql("github_metrics", conn, if_exists="append", index=False)
+print(f'Loaded {len(github_df)} rows into github_metrics')
